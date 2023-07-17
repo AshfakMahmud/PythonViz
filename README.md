@@ -15,3 +15,12 @@
 # Treating noisy data with Savitzki Golay filtering and plotting smoothened timeseries together with raw values:
 
 ![image](https://github.com/AshfakMahmud/PythonViz/assets/132434043/99f6969b-ea3a-4b42-8025-6393c9c918ac)
+
+# Violin plot data distribution visualization:
+
+![image](https://github.com/AshfakMahmud/PythonViz/assets/132434043/31ccaf1c-aee5-45b4-8264-7148800bb525)
+
+# Timeseries plot with standard deviation shading 
+
+![image](https://github.com/AshfakMahmud/PythonViz/assets/132434043/da96af36-785d-4f6e-9536-5fcf76db5215)
+
