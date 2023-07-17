@@ -16,7 +16,7 @@
 
 ![image](https://github.com/AshfakMahmud/PythonViz/assets/132434043/99f6969b-ea3a-4b42-8025-6393c9c918ac)
 
-# Violin plot data distribution visualization:
+# Violin plot for showing the distribution of soil organic carbon in different land cover:
 
 ![image](https://github.com/AshfakMahmud/PythonViz/assets/132434043/31ccaf1c-aee5-45b4-8264-7148800bb525)
 
