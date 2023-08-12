@@ -1,4 +1,4 @@
-# Python codes for different kinds of fancy plots are gathered here.
+# Python codes for different fancy plots are gathered here.
 
 # Timeseries of satellite image-derived indices in different crop growth stages:
 
