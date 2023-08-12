@@ -1,6 +1,6 @@
-# Python codes for different kind of fancy plots are gathered here.
+# Python codes for different kinds of fancy plots are gathered here.
 
-# Timeseries of satellite image derived indices in diffeent crop growth stages:
+# Timeseries of satellite image-derived indices in different crop growth stages:
 
 ![image](https://github.com/AshfakMahmud/PythonViz/assets/132434043/050cb06c-a682-41a4-9a89-d347126cbbc7)
 
@@ -12,7 +12,7 @@
 
 ![image](https://github.com/AshfakMahmud/PythonViz/assets/132434043/6fcdaf9d-6000-4e37-a17f-d32c28e250db)
 
-# Treating noisy data with Savitzki Golay filtering and plotting smoothened timeseries together with raw values:
+# Treating noisy data with Savitzki Golay filtering and plotting smoothened time-series together with raw values:
 
 ![image](https://github.com/AshfakMahmud/PythonViz/assets/132434043/99f6969b-ea3a-4b42-8025-6393c9c918ac)
 
