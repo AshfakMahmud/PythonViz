@@ -24,3 +24,5 @@
 
 ![image](https://github.com/AshfakMahmud/PythonViz/assets/132434043/da96af36-785d-4f6e-9536-5fcf76db5215)
 
+# Scatterplot between actual and predicted values with R2 and RMSE printed manually
+![SVC_FS_PLSR_400_24000](https://github.com/AshfakMahmud/PythonViz/assets/132434043/2de9d940-a7dc-4eb2-80e1-9d145a4f2e28)
