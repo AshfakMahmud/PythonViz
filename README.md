@@ -1,6 +1,10 @@
 # Python codes for different fancy plots are gathered here.
 
 # Agroclimatic data visualization
+
+example data: 201819 daily weather data.csv
+Code: 18_19_agroclimatic data.ipynb
+
 ![18-19](https://github.com/AshfakMahmud/PythonViz/assets/132434043/2f074bce-284f-4412-be81-96df050ee8a3)
 
 # Timeseries of satellite image-derived indices in different crop growth stages:
