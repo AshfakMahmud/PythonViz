@@ -4,8 +4,9 @@
 ![18-19](https://github.com/AshfakMahmud/PythonViz/assets/132434043/2f074bce-284f-4412-be81-96df050ee8a3)
 
 # Timeseries of satellite image-derived indices in different crop growth stages:
+![VI_unscaled_18_19](https://github.com/AshfakMahmud/PythonViz/assets/132434043/7ba31129-9ade-4a1e-bb28-98601fe67949)
 
-![image](https://github.com/AshfakMahmud/PythonViz/assets/132434043/050cb06c-a682-41a4-9a89-d347126cbbc7)
+
 
 # Pairplot of different vegetation indices from two scenarios using seaborne:
 
