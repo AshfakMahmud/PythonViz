@@ -1,5 +1,8 @@
 # Python codes for different fancy plots are gathered here.
 
+#Agroclimatic data visualization
+![18-19](https://github.com/AshfakMahmud/PythonViz/assets/132434043/2f074bce-284f-4412-be81-96df050ee8a3)
+
 # Timeseries of satellite image-derived indices in different crop growth stages:
 
 ![image](https://github.com/AshfakMahmud/PythonViz/assets/132434043/050cb06c-a682-41a4-9a89-d347126cbbc7)
@@ -26,3 +29,4 @@
 
 # Scatterplot between actual and predicted values with R2 and RMSE printed manually
 ![SVC_FS_PLSR_400_24000](https://github.com/AshfakMahmud/PythonViz/assets/132434043/2de9d940-a7dc-4eb2-80e1-9d145a4f2e28)
+
