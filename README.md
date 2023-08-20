@@ -2,25 +2,38 @@
 
 # Agroclimatic data visualization
 
-example data: 201819 daily weather data.csv || 
+Example data: 201819 daily weather data.csv || 
 Code: 18_19_agroclimatic data.ipynb
 
 ![18-19](https://github.com/AshfakMahmud/PythonViz/assets/132434043/2f074bce-284f-4412-be81-96df050ee8a3)
 
 # Timeseries of satellite image-derived indices in different crop growth stages:
+
+Example data: VI_sep_18_19.csv || 
+Code: Unscaled_VI.ipynb
+
 ![VI_unscaled_18_19](https://github.com/AshfakMahmud/PythonViz/assets/132434043/7ba31129-9ade-4a1e-bb28-98601fe67949)
 
 
-
 # Pairplot of different vegetation indices from two scenarios using seaborne:
+
+Example data: Pairplot_&_heatmap.ipynb || 
+Code: pairplot_16_17.csv
 
 ![image](https://github.com/AshfakMahmud/PythonViz/assets/132434043/70ad5470-43eb-4c52-b979-24eace8bf0f9)
 
 # Heatmaps of vegetation indices
 
+Example data: Pairplot_&_heatmap.ipynb || 
+Code: heatmap_16_17.csv
+
 ![image](https://github.com/AshfakMahmud/PythonViz/assets/132434043/6fcdaf9d-6000-4e37-a17f-d32c28e250db)
 
 # Treating noisy data with Savitzki Golay filtering and plotting smoothened time-series together with raw values:
+
+Example data: Pairplot_&_heatmap.ipynb || 
+Code: heatmap_16_17.csv
+
 
 ![image](https://github.com/AshfakMahmud/PythonViz/assets/132434043/99f6969b-ea3a-4b42-8025-6393c9c918ac)
 
