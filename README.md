@@ -60,4 +60,9 @@ Code: 16_17_vi.csv
 
 ![SVC_FS_PLSR_400_24000](https://github.com/AshfakMahmud/PythonViz/assets/132434043/2de9d940-a7dc-4eb2-80e1-9d145a4f2e28)
 
+# Violinplot showing detected transplant and harvest dates in the different agroecological zone with generic transplant and harvest date
 
+Example data: Violine_Transplant_harvest.ipynb || 
+Code: Distribution.csv
+
+![Violin_T_H](https://github.com/AshfakMahmud/PythonViz/assets/132434043/99c4182e-fb69-413c-9c17-79950e3415b9)
